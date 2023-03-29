@@ -6,7 +6,7 @@ body{
   background: linear-gradient(90deg, rgba(42,44,47,1) 5%, rgb(24, 49, 85) 60%, rgb(28, 32, 82) 100%);  
 }
 .page{
-  width: 1080px;
+  width: 780px;
   margin: 0 auto;
 }
 main{
