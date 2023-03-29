@@ -48,6 +48,7 @@ ul li a:hover{
 
 .card{
   display: flex;
+  width: 300px;
   justify-content: center;
   align-items: center;
 }
