@@ -72,6 +72,7 @@ p{
 }
 
 footer{
+	display: flex;
   text-align: center;
   bottom: 0;
   right: 0;
